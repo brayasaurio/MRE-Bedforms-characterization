@@ -16,7 +16,7 @@ Navarro, B (brayann@uninorte.edu.co) or Álvarez-Silva, O., (oalvarezs@uninorte.
 
 ### 1.	Bathymetric data (processed in netCDF structures)
 
-The bathymetric data corresponding to bathymetric profiles orthogonal to the channel with 1x1 m resolution between K0 to K10 distance uptream from river mouth.
+The bathymetric data corresponding to bathymetric profiles orthogonal to the channel with 1x1 m resolution between K0 to K10 distance upstream from river mouth.
 
     a.	HDS_BAT.nc
     b.	MDS_BAT.nc

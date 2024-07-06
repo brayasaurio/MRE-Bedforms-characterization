@@ -4,7 +4,7 @@ This repository contains processed bathymetric information and results from the 
 
 The information shared does not have economic or governmental purposes, so it is emphasized that it is solely for academic purposes. This will improve the availability of resources collected in the field for the adequate characterization of fluvial processes.
 
-### authors
+### Authors
 
 Navarro, B, Álvarez-Silva, O., Gutierrez, R. R., Avila, H., Restrepo, JC.
 

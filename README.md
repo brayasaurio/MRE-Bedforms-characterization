@@ -1,6 +1,6 @@
 ## Presentation
 
-This repository contains processed bathymetric information and results from the paper entitled “Bedforms characterization of the Magdalena River Estuary”.
+This repository contains processed bathymetric information and results from the paper entitled **“Bedforms characterization of the Magdalena River Estuary”**.
 
 The information shared does not have economic or governmental purposes, so it is emphasized that it is solely for academic purposes. This will improve the availability of resources collected in the field for the adequate characterization of fluvial processes.
 
